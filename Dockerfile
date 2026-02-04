@@ -1,1 +1,1 @@
-FROM gcr.io/knative-releases/knative.dev/eventing/cmd/in_memory/channel_dispatcher:v1.10.0
+gcr.io/knative-releases/knative.dev/serving/cmd/queue@sha256:05f7dabe3447d22099172c17c0903cdcbc7c386cc32aa871ae49f22e8f3e85d7
